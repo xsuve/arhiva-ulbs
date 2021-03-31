@@ -1,7 +1,7 @@
-![ArhivaULBS - University Exam Models Platform](https://xsuve.com/portfolio/arhivaulbs/header.png)
+![ArhivaULBS - University Exam Models Sharing Platform](https://xsuve.com/portfolio/arhivaulbs/header.png)
 
 `2019 Series`
-# ArhivaULBS - University Exam Models Platform
+# ArhivaULBS - University Exam Models Sharing Platform
 ArhivaULBS is a platform where the students in my university can share and view exam models that have been sustained in the past years. This helps student get an in-depth idea on how the exam will be.
 
 ### Development
