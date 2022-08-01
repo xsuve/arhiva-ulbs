@@ -1,4 +1,4 @@
-![ArhivaULBS - University Exam Models Sharing Platform](https://xsuve.com/portfolio/arhivaulbs/header.png)
+![ArhivaULBS - University Exam Models Sharing Platform](screenshot.png)
 
 `2019 Series`
 # ArhivaULBS - University Exam Models Sharing Platform
